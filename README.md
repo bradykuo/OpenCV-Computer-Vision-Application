@@ -4,24 +4,24 @@ This project implements various computer vision algorithms including contour det
 
 ## Features
 
-1. **Image Processing (20%)**
-   - Draw Contour (15%)
-   - Count Rings (5%)
+1. **Image Processing**
+   - Draw Contour 
+   - Count Rings 
 
-2. **Camera Calibration (20%)**
-   - Corner detection (4%)
-   - Find intrinsic matrix (4%)
-   - Find extrinsic matrix (4%)
-   - Find distortion matrix (4%)
-   - Show undistorted result (4%)
+2. **Camera Calibration**
+   - Corner detection 
+   - Find intrinsic matrix 
+   - Find extrinsic matrix 
+   - Find distortion matrix 
+   - Show undistorted result 
 
-3. **Augmented Reality (20%)**
-   - Show words on board (10%)
-   - Show words vertically (10%)
+3. **Augmented Reality**
+   - Show words on board 
+   - Show words vertically 
 
-4. **Stereo Disparity Map (20%)**
-   - Generate Stereo Disparity Map (10%)
-   - Check Disparity Value (10%)
+4. **Stereo Disparity Map**
+   - Generate Stereo Disparity Map 
+   - Check Disparity Value 
 
 ## Requirements
 
