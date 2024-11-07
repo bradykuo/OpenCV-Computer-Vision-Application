@@ -1,4 +1,4 @@
-# OpenCV Computer Vision 
+# OpenCV Computer Vision Application
 
 This project implements various computer vision algorithms including contour detection, camera calibration, augmented reality, and stereo disparity mapping using Python and OpenCV.
 
