@@ -5,23 +5,23 @@ This project implements various computer vision algorithms including contour det
 ## Features
 
 1. **Image Processing**
-   - Draw Contour 
-   - Count Rings 
+   - 1.1 Draw Contour 
+   - 1.2 Count Rings 
 
 2. **Camera Calibration**
-   - Corner detection 
-   - Find intrinsic matrix 
-   - Find extrinsic matrix 
-   - Find distortion matrix 
-   - Show undistorted result 
+   - 2.1 Corner detection 
+   - 2.2 Find intrinsic matrix 
+   - 2.3 Find extrinsic matrix 
+   - 2.4 Find distortion matrix 
+   - 2.5 Show undistorted result 
 
 3. **Augmented Reality**
-   - Show words on board 
-   - Show words vertically 
+   - 3.1 Show words on board 
+   - 3.2 Show words vertically 
 
 4. **Stereo Disparity Map**
-   - Generate Stereo Disparity Map 
-   - Check Disparity Value 
+   - 4.1 Generate Stereo Disparity Map 
+   - 4.2 Check Disparity Value 
 
 ## Requirements
 
@@ -94,6 +94,10 @@ python main.py
 - The stereo disparity implementation uses StereoBM with parameters:
   - numDisparities = 256
   - blockSize = 25
+
+## License
+
+This project is available for academic and educational purposes.
 
 ## Reference
 
