@@ -95,6 +95,10 @@ python main.py
   - numDisparities = 256
   - blockSize = 25
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## License
 
 This project is available for academic and educational purposes.
